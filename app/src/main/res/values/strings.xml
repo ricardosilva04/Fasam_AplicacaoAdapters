@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplicação Adapters</string>
+    <string name="hintNome">Informe seu nome!</string>
+    <string name="hintSobrenome">Informe seu sobrenome!</string>
+    <string name="hintEmail">Informe seu e-mail!</string>
+    <string name="hintTelefone">Informe seu telefone</string>
+</resources>
